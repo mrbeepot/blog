@@ -1,0 +1,6 @@
+[project]
+site_name = "Chaitanya Bapat's blog"
+
+[project.markdown_extensions.admonition]
+[project.markdown_extensions.pymdownx.details]
+[project.markdown_extensions.pymdownx.superfences]
