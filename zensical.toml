@@ -1,6 +1,6 @@
 [project]
 site_name = "Chaitanya Bapat's blog"
-site_url = "ttps://mrbeepot.github.io/blog/"
+site_url = "https://mrbeepot.github.io/blog/"
 site_author = "Chaitanya Bapat"
 docs_dir = "docs"
 site_dir = "site"
