@@ -1,4 +1,4 @@
 [submodule "docs"]
 	path = docs
-	url = git@github.com:mrbeepot/blog_contents.git
+	url = https://github.com/mrbeepot/blog_contents.git
 	branch = main
