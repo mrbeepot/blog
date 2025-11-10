@@ -1,5 +1,10 @@
 [project]
 site_name = "Chaitanya Bapat's blog"
+site_url = "https://mrbeepot.github.io/blog/"
+site_author = "Chaitanya Bapat"
+docs_dir = "docs"
+site_dir = "site"
+site_description = "Chaitanya Bapat's blog"
 
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.pymdownx.details]
