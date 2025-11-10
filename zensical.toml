@@ -6,6 +6,28 @@ docs_dir = "docs"
 site_dir = "site"
 site_description = "Chaitanya Bapat's blog"
 
+# [project.theme]
+# scheme = "slate"
+# palette.primary = "cyan"
+# palette.accent = "cyan"
+
+
+[[project.theme.palette]]
+scheme = "default"
+media = "(prefers-color-scheme: light)"
+primary = "cyan"
+accent = "cyan"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+scheme = "slate"
+media = "(prefers-color-scheme: dark)"
+primary = "cyan"
+accent = "cyan"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
 [project.markdown_extensions.admonition]
 [project.markdown_extensions.pymdownx.details]
 [project.markdown_extensions.pymdownx.superfences]
